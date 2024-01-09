@@ -1,4 +1,4 @@
-# Course_work_7_DRF_course_7 
+# Course_work_7_DRF
 
 
 ## Решены следующие задачи:
